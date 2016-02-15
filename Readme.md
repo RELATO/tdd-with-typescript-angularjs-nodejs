@@ -1,5 +1,9 @@
 # TDD with TypeScript, AngularJS, and Node.js
 
+Youtube video (excellent explanation)
+
+https://www.youtube.com/watch?v=vGo1aDhXMM4
+
 Code samples from presentation 
 
 http://jj09.net/tdd-with-typescript-angularjs-and-node-js/

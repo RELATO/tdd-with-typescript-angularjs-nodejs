@@ -17,3 +17,5 @@ typings
 
 # ignore .js.map files
 *.js.map
+
+.idea
